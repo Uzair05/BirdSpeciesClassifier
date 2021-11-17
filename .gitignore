@@ -1,5 +1,7 @@
 
 exclude/*
+data/*
+*.zip
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,pycharm,python,jupyternotebooks,git,visualstudiocode
